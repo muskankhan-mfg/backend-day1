@@ -1,2 +1,0 @@
-console.log("mussi.... and junnu session start ho gya hai")
-// BUBU AAB tum karke dikhao bache chalo yha se  oooo mai y kh rhi hu push toh kiya hi nhiii ere do type hote hai ek likh ke aur ek ese hi aab sab ese hi karte hai likh ke bhi ho sakta hai but phele tum ye karke dikhao mai y ouchh rhi hu uss code mai kuch bhi snge krege toh git mai bhi chnge hoga kyas ha dekho ab isk baad kaise krna h 
